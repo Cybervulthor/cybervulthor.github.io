@@ -1,0 +1,82 @@
+body{
+
+    background-image: linear-gradient( rgb(215, 131, 248), rgb(253, 87, 87),rgb(252, 67, 169));
+    background-repeat: no-repeat;
+    font-family: 'Poiret One';
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    
+}
+/* div header */
+div#menu{
+position: sticky;
+top: 10px;
+z-index: 9;
+
+
+}
+
+a{ 
+    margin: 30px;
+    border: double rgba(82, 4, 4, 0.623);
+    border-radius: 5px;
+   
+}
+
+#menu header{
+    
+    background-color: rgba(161, 137, 136, 0.623);
+    text-align: center;
+    border:solid rgba(103, 45, 151, 0.808);
+    border-radius: 20px ;
+    padding: 25px;
+
+}
+
+h2.subtopc{
+    font-weight: bold;
+    text-align: center ;
+}
+
+.txt{
+    font-weight: 500;
+}
+.bannerImg{
+    border: solid rgb(153, 151, 151);
+ 
+
+}
+.bannerLink{
+    border: none;
+}
+/* icl=iconlink */
+.icl{
+    border: none;
+}
+.fxicon{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 15%;
+    width: 10%;
+   
+
+}
+
+.orknScrpt{
+    position: relative;
+    top: 0px;
+    left: 50%;
+  
+}
+
+#scroll{
+    text-decoration: line-through rgb(56, 11, 11);
+}
+
+div#footer{
+    text-align: center;
+    background: rgb(16, 85, 85);
+    border: solid rgb(65, 16, 16);
+}
+
