@@ -2,7 +2,7 @@ body{
 
     background-image: linear-gradient( rgb(215, 131, 248), rgb(253, 87, 87),rgb(252, 67, 169));
     
-    /*<!--background-repeat: no-repeat--> deu problema na versao mobile;
+    /*<!--background-repeat: no-repeat--> deu problema na versao mobile; */
     
     font-family: 'Poiret One';
     font-size: 35px;
