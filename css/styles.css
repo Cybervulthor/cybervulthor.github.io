@@ -7,8 +7,7 @@ body{
     /*soluçao temporaria pra mostrar no mobile, precisa de um fine tuning*/
     width: fit-content;
     height: fit-content;
-    <!-- \\I// -->
-    
+    /*<------------------------------------------------------------------>*/
     font-family: 'Poiret One';
     font-size: 35px;
     color: rgb(0, 0, 0);
